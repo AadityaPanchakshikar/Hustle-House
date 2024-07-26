@@ -1,2 +1,2 @@
 # Hustle-House
-This was a first ever project I had created under pressure, this is basically a react fully functionable e-commerce website. I had created this website for my Aunt's clothing venture  "HustleHouse" the only this the website is missing is a payment gateway else everything is operational for reviews form customers to cms using sanity 
+This was a first ever project I had created under pressure with in a week i had no prior with react, this is basically rfully functioning e-commerce website in react. I had created this website for my Aunt's clothing venture  "HustleHouse" the only this the website is missing is a payment gateway else everything is operational for reviews form customers to CMS using sanity  with Tailwinds beautiful UI components
